@@ -1,7 +1,7 @@
 # GE_CA
 
-Course Name: Game Engine 1
-Class Group: DT228
+Course Name: Game Engine 1  
+Class Group: DT228  
 Student Name: Zhimian Wu  
 Student Number: D16123932  
 
