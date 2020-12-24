@@ -466,7 +466,7 @@ MonoBehaviour:
   checkRadius: 0.4
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   isGround: 0
 --- !u!1 &2097455955
 GameObject:
@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 2097455958}
   - component: {fileID: 2097455957}
   - component: {fileID: 2097455956}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
