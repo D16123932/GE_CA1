@@ -39,7 +39,8 @@ public class Player_Controller : MonoBehaviour
         horizontalMove = Input.GetAxis("Horizontal") * moveSpeed;
         verticalMove = Input.GetAxis("Vertical") * moveSpeed;
 
-        dir = transform.forward * verticalMove + transform.forward * horizontalMove;
+        dir = transform.forward * verticalMove + transform.right * horizontalMove;
+
         cc.Move(dir * Time.deltaTime);
 
         if(Input.GetButtonDown("Jump") && isGround)
@@ -51,3 +52,4 @@ public class Player_Controller : MonoBehaviour
         cc.Move(velocity * Time.deltaTime);
     }
 }
+
