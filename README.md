@@ -6,7 +6,6 @@ Student Name: Zhimian Wu
 Student Number: D16123932  
 
 # Project
-~~A simulation of a natural or biological system~~
 A simulator of a small world in forest.
 
 # Description of this project
