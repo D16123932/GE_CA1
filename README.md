@@ -1,9 +1,11 @@
 # GE_CA
+Student Name: Zhimian Wu  
+
+Student Number: D16123932  
 
 Course Name: Game Engine 1  
+
 Class Group: DT228  
-Student Name: Zhimian Wu  
-Student Number: D16123932  
 
 # Project
 A simulator of a small world in forest.
@@ -102,26 +104,10 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076
 - Grass Flowers Pack Free
 https://assetstore.unity.com/packages/2d/textures-materials/grass-flowers-pack-free-138810
 
-
 # What I am most proud of in the assignment
 I think the best part of this project is the player movement which include the camera control and player control.
 User could use mouse to control the direction (camera) and press "WASD" to move in any direction and "Space" bar to jump (user keyboard input) and the addition of gravity system makes this project closer to the real world.
 Including the creation and design of the terrain (although this small world is not perfect), the addition of trees and grass makes this project more perfect.
-
-# Instruction
-To run this project, you might need to clone this Git repository.
-If there is any texture that do not work you might need to download some Unity asset package from Unity Asset Store and import them into this project.
-Here is those package links:
-- Conifers [BOTD]
-https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076
-- Grass Flowers Pack Free
-https://assetstore.unity.com/packages/2d/textures-materials/grass-flowers-pack-free-138810
-
-And before running this project, remember to check those variable in "Inspector Window"
-Main Camera: Mouse Sensitivity
-Player: Move Speed, Jump Speed, Gravity, Check Radius
-
-Check them all have values and you could change the value to test.
 
 # Youtube Video Demo
 [![Game Engine 1 CA Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1608939110/video_to_markdown/images/youtube--7A_97zPr-FM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7A_97zPr-FM "Game Engine 1 CA Demo")
